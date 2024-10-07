@@ -80,8 +80,8 @@ window.addEventListener("load",function(){
     'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/a1adaa79-f742-45a1-9ad6-59fedd33aa421653643704538-QL_Tops_Tees.jpg',
     'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/77eee7e0-9638-4ddc-8726-b0ea0f9d9d591653643704145-QL_ActivewearW.jpg',
     'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/8507ccd1-92ee-4e1b-a8e1-b9468a246b401653643704242-QL_FormalShoes.jpg',
-    'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/d3d0683b-3616-40c4-89d8-5fd3273ac80d1653643704226-QL_Flip-Flops.jpg',
-    'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/27/9c3501e3-22b0-47b0-b60a-2de70f3c8f951653643704178-QL_Bras_Briefs.jpg',
+    'https://img.tatacliq.com/images/i13/437Wx649H/MP000000018994027_437Wx649H_202308310447165.jpeg',
+    'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcfsPxpS6HnPQbm4F4k9wPEuzVJELWJIL3hW66e1sjezYNuzJJaAr5uTbrWAw4aYpC4pAQObNkS6mt7s4stz_P3bOYwS1FmANu1AQyq4lcMmRF2EzaMw11',
   ]
   let grid1 = document.getElementById('products_grid1')
   let grid2 = document.getElementById('products_grid2')
